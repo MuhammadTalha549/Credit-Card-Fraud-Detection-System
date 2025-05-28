@@ -188,8 +188,8 @@ Feel free to fork the repo and create a pull request.
 
 **Your Name**
 
-* GitHub: [](https://github.com/MuhammadTalha549)
-* Email: [](talhamuahammad549@gmail.com)
+* GitHub: [@username](https://github.com/MuhammadTalha549)
+* Email: [@Email](talhamuahammad549@gmail.com)
 
 ## 🙏 Acknowledgments
 
